@@ -12,6 +12,7 @@
 -(float)distance:(point *)a:(point *)b;
 {
    return sqrt(pow(a.y-a.x,2)+pow(b.y-b.x,2));
+    //Test code for git
 }
 
 
