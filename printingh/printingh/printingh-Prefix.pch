@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'printingh' target in the 'printingh' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif

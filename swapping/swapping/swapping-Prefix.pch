@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'swapping' target in the 'swapping' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif

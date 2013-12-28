@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'greatestof3nos' target in the 'greatestof3nos' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif

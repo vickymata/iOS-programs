@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'reverse1' target in the 'reverse1' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
